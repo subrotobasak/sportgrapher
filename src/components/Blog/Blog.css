@@ -1,0 +1,11 @@
+.blog-area {
+    padding-bottom: 60px;
+}
+
+/* Responsie CSS Start */
+@media (max-width: 991px) {
+    .blog-area {
+        padding: 0;
+    }
+
+}

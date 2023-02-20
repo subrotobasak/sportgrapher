@@ -1,0 +1,22 @@
+.footer-area {
+    padding: 35px 0;
+    background-color: #000000;
+    text-align: center;
+    color: #ffffff;
+}
+
+.footer-area p {
+    margin-bottom: 0;
+}
+
+.footer-area img {
+    margin-bottom: 15px;
+}
+
+/* Responsive CSS Start */
+@media (max-width: 991px) {
+
+    .footer-area {
+        margin-top: 40px;
+    }
+}

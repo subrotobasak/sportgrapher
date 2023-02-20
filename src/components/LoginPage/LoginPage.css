@@ -1,0 +1,35 @@
+
+.from-area {
+    padding-bottom: 60px;
+    padding-top: 120px;
+    text-align: center;
+}
+
+
+.section-heading h3 {
+    font-size: 32px;
+}
+
+.from-area .row {
+    display: flex;
+    justify-content: center;
+}
+
+.from-area a {
+    text-decoration: none;
+}
+
+
+.extra {
+    display: flex;
+    align-items: center;
+}
+
+.extra div {
+    background: #ccc;
+    height: 1px;
+    width: 50%;
+}
+.extra span {
+    padding: 0 15px;
+}

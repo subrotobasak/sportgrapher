@@ -1,0 +1,20 @@
+ .hover-button a {
+     background-color: #7952b3;
+     border: 1px solid #7952b3;
+     border-radius: 4px;
+     color: #fff;
+     display: inline-block;
+     font-size: 12px;
+     padding: 12px 25px;
+     text-decoration: none;
+     text-transform: uppercase;
+     transition: .3s;
+     margin-bottom: 50px;
+ }
+
+ .hover-button a:hover {
+     background-color: transparent;
+     border: 1px solid #fff;
+     color: #fff;
+
+ }

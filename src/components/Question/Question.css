@@ -1,0 +1,18 @@
+.single-post {
+    border: 1px solid #e7e4e4;
+    padding: 15px;
+    border-radius: 6px;
+}
+
+.single-post h3 {
+    font-size: 19px !important;
+    margin-bottom: 15px;
+    padding: 0;
+}
+
+/* Responsive CSS Start Here */
+@media (max-width: 991px) {
+   .single-post {
+    margin-bottom: 25px;
+   }
+}

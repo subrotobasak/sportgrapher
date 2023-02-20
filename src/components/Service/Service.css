@@ -1,0 +1,36 @@
+.single-service {
+    border: 1px solid #e7e4e4;
+    padding-bottom: 5px;
+    border-radius: 6px;
+}
+
+.single-service-text {
+    padding: 15px 10px;
+}
+
+.single-service-text h3 {
+    padding: 0;
+    font-size: 22px !important;
+}
+
+.single-service-text h4 {
+    font-size: 16px;
+    font-weight: 700;
+}
+
+.single-service-text a {
+    margin-bottom: 0;
+}
+
+.single-service-text a:hover {
+    border: 1px solid #7952b3;
+    color: #7952b3;
+
+}
+
+/* Responsive CSS Start Here */
+@media (max-width: 991px) {
+    .single-service {
+        margin-bottom: 30px;
+    }
+}

@@ -1,0 +1,12 @@
+.moments-area {
+    background: #fafafa;
+    padding-bottom: 35px;
+}
+
+/* Responsive CSS Star */
+@media (max-width: 991px)
+{
+    .moments-area {
+        padding-bottom: 0;
+    }
+}
